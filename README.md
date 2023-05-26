@@ -5,3 +5,7 @@
 
 •	Dashboard-https://app.powerbi.com/groups/me/reports/77c51483-6139-4142-ad2f-aba4f930c433/ReportSection?experience=power-bi
 
+
+![Screenshot (134)](https://github.com/mayankfulzele05/HR-Analytics-Dashboard-Power-BI-/assets/131655488/98adcf77-8d7f-4566-9458-84591a83c280)
+
+
